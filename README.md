@@ -1,5 +1,5 @@
-Browser Capabilities PHP Project
-================================
+Browser Capabilities PHP Project (FORK)
+=======================================
 
 This is a userland replacement for PHP's native `get_browser()` function, which is _officially supported_ by the Browser Capabilities Project.
 
