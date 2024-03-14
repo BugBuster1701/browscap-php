@@ -3,7 +3,7 @@ Browser Capabilities PHP Project (FORK)
 
 This is a userland replacement for PHP's native `get_browser()` function, which is _officially supported_ by the Browser Capabilities Project.
 
-[![Latest Stable Fork Version](https://img.shields.io/badge/stable-7.2.1-blue.svg)](https://packagist.org/packages/bugbuster/browscap-php#7.2.1)
+[![Latest Stable Fork Version](https://img.shields.io/badge/stable-7.2.2-blue.svg)](https://packagist.org/packages/bugbuster/browscap-php#7.2.2)
 
 Fork: Special version for Contao 5.3 and PHP 8.3 with Monolog 2.9, used by the Contao BotDetection Bundle.
 Pure elimination of dependency conflicts, Contao BotDetection Bundle uses `NullLogger()`.
